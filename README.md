@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![TokenArena Activity](https://token.poco-ai.com/zh/u/rainbowrain/activity.svg)
 <!--
 **RainbowRain9/RainbowRain9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
